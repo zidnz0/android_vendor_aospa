@@ -24,6 +24,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/cupid/aospa_cupid.mk \
     $(LOCAL_DIR)/davinci/aospa_davinci.mk \
     $(LOCAL_DIR)/dubai/aospa_dubai.mk \
+    $(LOCAL_DIR)/fog/aospa_fog.mk \
     $(LOCAL_DIR)/fuxi/aospa_fuxi.mk \
     $(LOCAL_DIR)/ishtar/aospa_ishtar.mk \
     $(LOCAL_DIR)/juice/aospa_juice.mk \
@@ -74,6 +75,7 @@ COMMON_LUNCH_CHOICES += \
     aospa_cupid-userdebug \
     aospa_davinci-userdebug \
     aospa_dubai-userdebug \
+    aospa_fog-userdebug \
     aospa_fuxi-userdebug \
     aospa_ishtar-userdebug \
     aospa_juice-userdebug \
