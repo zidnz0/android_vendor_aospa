@@ -3,7 +3,7 @@
         "remote":       "github",
         "repository":   "zidnz0/android_device_xiaomi_fog",
         "target_path":  "device/xiaomi/fog",
-        "revision":     "uvite"
+        "revision":     "unity"
     },
     {
         "remote":       "github",
@@ -13,9 +13,9 @@
     },
     {
         "remote":       "github",
-        "repository":   "alternoegraha/kernel_xiaomi_sm6225",
+        "repository":   "losshye/kernel_xiaomi_sm6225",
         "target_path":  "kernel/xiaomi/fog",
-        "revision":     "uvite",
+        "revision":     "fog-new",
         "clone-depth":  "1"
     },
     {
